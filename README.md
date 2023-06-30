@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=Choi's%20GitHub&fontSize=70)
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h2 align="center">Hello World!~ 🖐 </h2>
 
+
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   &nbsp 
